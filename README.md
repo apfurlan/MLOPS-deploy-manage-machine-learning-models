@@ -6,3 +6,6 @@ pip install -r requirements.txt
 
 python --version
 Python 3.12.3
+
+
+Testando
